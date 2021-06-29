@@ -13,7 +13,7 @@ $ cd example
 
 $ git remote -v
 
-remote1 https://github.com/remote1/example (fetch)
+remote1 https://github.com/NextGen45 (fetch)
 
 remote1 https://github.com/remote1/example (push)
 
