@@ -8,7 +8,7 @@ _hello_
 [Tommy Steele.bio](https://github.com/NextGen45)
 
 
-# pushing/feyching notes
+# pushing/fetching notes
 $ cd example
 
 $ git remote -v
