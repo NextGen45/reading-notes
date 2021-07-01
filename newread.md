@@ -1,4 +1,4 @@
- cd example
+# cd example
 
 $ git remote -v
 
@@ -39,7 +39,7 @@ Here is the command format:
 git fetch [remote-name]
 
 
-css2
+#css2
 Styling
 
 *h1 { color: red; font-size: 5em;} body { background-color: lightblue;}
@@ -57,9 +57,7 @@ The browser loads the HTML (e.g. receives it from the network). It converts the 
 
 
 
-
-
-#java script
+# java script
 Interaction: alert, prompt, confirm
 As we’ll be using the browser as our demo environment, let’s see a couple of functions to interact with the user: alert, prompt and confirm.
 
@@ -110,7 +108,7 @@ The function confirm shows a modal window with a question and two buttons: OK an
 
 The result is true if OK is pressed and false otherwise.
 
-For example:
+# Example
 
 let isBoss = confirm("Are you the boss?");
 
