@@ -1,5 +1,5 @@
-Examples of wireframes
-Before you start designing the wireframes of your own app or product, take a look at some examples of wireframes. This will give you some inspiration for your own wireframes, as well as giving you an idea of the variety of ways of creating them. Some people like to draw their wireframes by hand, others feel more comfortable using software like Invision, or Balsamiq to create theirs. Weâ€™ll go through some of the tools you can use to create wireframes shortly, but itâ€™s important to emphasize that how you make yours is up to you: some people feel more creative when sat at their computer, while others prefer to have a pen and paper in hand.
+# Wireframes
+So before starting your design of different wireframes of your own as in apps or products, take a look at some example wireframes. This will give you inspiration for your own designs that you come up with  as well as giving you an idea of the variety of ways you can create them. Some people like to draw their wireframes by hand, others feel more comfortable using software like Invision, or Balsamiq to create theirs. Weâ€™ll go through some of the tools you can use to create wireframes shortly, but it's important to emphasize that how you make yours is up to you: some people feel more creative when sat at their computer, while others prefer to have a pen and paper in hand.
 
 That said, for complete beginners, bear in mind the following when deciding on your wireframe creation process:
 
@@ -9,7 +9,7 @@ Switching later to software (after initially hand-drawing your wireframe) allows
 Itâ€™s likely to be to your advantage to start off hand-drawing your wireframes before executing more detailed versions using an online app or software. The following wireframes should give you a good idea of how information can be organized on the screen.
 
 
- # HTML ?
+ # HTML 
 HTML is a markup language that defines the structure of your content. HTML consists of a series of elements, which you use to enclose, or wrap, different parts of the content to make it appear a certain way, or act a certain way. The enclosing tags can make a word or image hyperlink to somewhere else, can italicize words, can make the font bigger or smaller, and so on.  For example, take the following line of content:
 
 My cat is very grumpy
