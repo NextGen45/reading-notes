@@ -1,10 +1,10 @@
 # Syntax guide
 Here’s an overview of Markdown syntax that you can use anywhere on GitHub.com or in your own text files.
 
-Headers
-# This is an <h1> tag
-## This is an <h2> tag
-###### This is an <h6> tag
+# Headers
+This is an <h1> tag= 1 hash tags
+This is an <h2> tag= 2 hash tags
+This is an <h6> tag = 3 hash tags
 Emphasis
 *This text will be italic*
 _This will also be italic_
