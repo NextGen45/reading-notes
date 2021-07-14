@@ -46,3 +46,19 @@ brightly colored text. This combination seems to be easier on the eyes
 —but there are other themes to choose from as well. Since you’ll be
 using your text editor most of the time, it’s good to find a theme that
 might reduce eye strain and fatigue.
+
+
+# Differnt text editors
+Notepad++
+
+Text Wrangler
+
+BB edit
+
+Visual Studio Code
+
+Atom
+
+Brackets
+
+Sublime Text
