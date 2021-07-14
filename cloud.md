@@ -5,9 +5,11 @@ because I think that I have a chance to build
 a lot of differnt opportunities in the future.
 
 # Table of Content
-[code editor](https://nextgen45.github.io/reading-notes/code-editor)
-[cssnotes](https://nextgen45.github.io/reading-notes/cssnotes)
-[loops](https://nextgen45.github.io/reading-notes/loops)
+*[code editor](https://nextgen45.github.io/reading-notes/code-editor)
+
+*[cssnotes](https://nextgen45.github.io/reading-notes/cssnotes)
+
+*[loops](https://nextgen45.github.io/reading-notes/loops)
 
 
 
